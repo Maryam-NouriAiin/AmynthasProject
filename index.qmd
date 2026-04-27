@@ -57,7 +57,22 @@ This is very much a collaborative effort, and your experience and observations a
 Join our WhatsApp group to share updates, ask quick questions, and send photos/videos:  
 [Join WhatsApp Group](https://chat.whatsapp.com/LIT7TFX6Ew43YIKpjAaJSW?mode=gi_t)
 
+<div style="max-width: 900px; margin: auto;">
+  <iframe 
+    width="100%" 
+    height="250px" 
+    src="/images/jw_1.jpeg"
+    frameborder="0" 
+    style="border: none;" 
+    allowfullscreen>
+  </iframe>
+</div>
 
+
+---
+
+### **Have a question (no rush)?**
+You can submit it here anytime:  
 
 
 <div style="max-width: 900px; margin: auto;">
@@ -70,13 +85,6 @@ Join our WhatsApp group to share updates, ask quick questions, and send photos/v
     allowfullscreen>
   </iframe>
 </div>
----
-
-### **Have a question (no rush)?**
-You can submit it here anytime:  
-<iframe width="640px" height="480px" src="https://forms.cloud.microsoft/r/JFXc4QaZX9?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
-
 :::
 
 ---
