@@ -31,7 +31,6 @@ This is very much a collaborative effort, and your experience and observations a
 ---
 
 ::: {.callout-importnat icon=false appearance="simple"}
-
 ## **Contacts**
 
 ### **Vermont**
@@ -42,9 +41,7 @@ This is very much a collaborative effort, and your experience and observations a
 ### **New York**
 **Tim McCay**  tmccay@colgate.edu  
 
-
 ---
-
 
 ### **Quick communication**
 Join our WhatsApp group to share updates, ask quick questions, and send photos/videos:  
@@ -52,12 +49,10 @@ Join our WhatsApp group to share updates, ask quick questions, and send photos/v
 
 ![](/images/whatsapp.jpeg){fig-align="center" width="30%"}
 
-
 ---
 
 ### **Have a question (no rush)?**
 You can submit it here anytime:  
-
 
 <div style="max-width: 900px; margin: auto;">
   <iframe 
