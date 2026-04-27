@@ -12,7 +12,7 @@ format:
 
 ## What we did in 2025
 
-<div style="float: right; width: 60%; margin-left: 1em; background-color:#f5f5f5; padding:1em; border-radius:1em; text-align:center;">
+<div style="float: right; width: 40%; margin-left: 1em; background-color:#f5f5f5; padding:1em; border-radius:1em; text-align:center;">
 
   <img src="/images/beds_2.jpeg" style="width:100%; height:auto; border-radius:0.5em;" />
 
@@ -24,23 +24,6 @@ Last year was really about getting everything set up and building a solid founda
 We established a large raised-bed experiment at the UVM Horticulture Research & Education Center...
 
 <div style="clear: both;"></div>
-
-
-
-
-
-
-
-
-::: {#fig-worms layout-ncol=2 style="max-width:1200px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em;"}
-
-![](/images/nk_1.jpeg)
-![](/images/ol_1.jpeg)
-
-**Our team members Nolan Kurtz (right) and Ollie Leibovich (left) collecting jumping worms for introduction into experimental beds. They collected approximately 5,500 worms over three days.**
-
-:::
-
 
 
 
@@ -63,10 +46,20 @@ We established a large raised-bed experiment at the UVM Horticulture Research & 
 
 
 
-::: {layout-ncol=2}
+
+
+::: {layout-ncol=2 style="max-width:1200px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em;"}
+
 ![](/images/nk_1.jpeg)
 ![](/images/ol_1.jpeg)
+
 :::
+
+<div style="max-width:1200px; margin:auto; text-align:center; font-size:0.95em;">
+
+*Our team members Nolan Kurtz (right) and Ollie Leibovich (left) collecting jumping worms for introduction into experimental beds. They collected approximately 5,500 worms over three days.*
+
+</div>
 
 
 
