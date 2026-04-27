@@ -75,7 +75,7 @@ On the outreach side, we connected with 26 different operations across Vermont a
 Interestingly, even though several farms reported worms, we only detected cocoons in a couple of those sites. That tells us two things: identification is still tricky, and worm populations can be very patchy. So moving forward, we’re planning more detailed and repeated sampling to get a clearer picture.
 
 
-::: {.callout-note icon=false appearance="simple"}
+::: {.callout-tip icon=false appearance="simple"}
 We presented our early research results from this project, and other ongoing projects on jumping worms in the following events: 
 
 -	UVM Horticultural Research & Education Center Field Day (August 14, 2025): Demonstrations of field trial design, monitoring approaches, and biological control concepts; ~35 participants.
