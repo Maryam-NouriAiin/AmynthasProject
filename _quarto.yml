@@ -3,7 +3,13 @@ project:
   output-dir: _output
   render:
     - "index.qmd"
-    - "about.qmd"
+    - "update.qmd"
+    - "id_key.qmd"
+    - "questionnaire.qmd"
+    - "handout.qmd"
+
+
+    
 
 format:
   html: 
@@ -23,6 +29,12 @@ website:
     contents:
       - text: Project Summary
         href: index.qmd
+      - text: Project Update
+        href: update.qmd
+      - text: Identification Key
+        href: id_key.qmd
+      - text: Questionnaire
+        href: questionnaire.qmd
       - text: Handouts
         href: handout.qmd
 
@@ -34,13 +46,12 @@ website:
         href: index.qmd
       - text: "Project Update"
         href: update.qmd
-      - text: "Handouts"
-        href: handout.qmd
-      - text: "Questionnaire"
-        href: questionnaire.qmd
       - text: "Identification Key"
         href: id_key.qmd
-
+      - text: "Questionnaire"
+        href: questionnaire.qmd
+      - text: "Handouts"
+        href: handout.qmd
 
   page-footer:
     left: |
