@@ -30,7 +30,7 @@ This is very much a collaborative effort, and your experience and observations a
 
 ---
 
-::: {.callout-importnat icon=false appearance="simple"}
+::: {.callout-important icon=false appearance="simple"}
 ## **Contacts**
 
 ### **Vermont**
