@@ -17,11 +17,11 @@ format:
       gutter-width: 1.5rem
 
 website:
-  title: "Website Template"
+  title: "Amynthas Project"
 
   sidebar:
     contents:
-      - text: Home
+      - text: Project Summary
         href: index.qmd
       - text: Handouts
         href: handout.qmd
@@ -30,12 +30,17 @@ website:
     background: "#2e4053"
     foreground: "#f4f6f6"
     right:
-      - text: "Home"
+      - text: "Project Summary"
         href: index.qmd
+      - text: "Project Update"
+        href: update.qmd
       - text: "Handouts"
         href: handout.qmd
       - text: "Questionnaire"
         href: questionnaire.qmd
+      - text: "Identification Key"
+        href: id_key.qmd
+
 
   page-footer:
     left: |
