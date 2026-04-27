@@ -33,7 +33,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Handouts"
-        href: handouts.qmd
+        href: handout.qmd
       - text: "Questionnaire"
         href: questionnaire.qmd
 
