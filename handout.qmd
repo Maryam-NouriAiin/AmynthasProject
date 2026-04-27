@@ -10,7 +10,8 @@ format:
       style: docked
 ---
 
-[Download Best Jumping Worm Management Practice Factsheets (PDF)](pdf/factsheet.pdf){target="_blank"}
+
+Best Jumping Worm Management Practice Factsheets [(PDF)](pdf/factsheet.pdf){target="_blank"}
 
 For more information, visit the [UVM Master Gardener Program page](https://www.uvm.edu/extension/mastergardener/gardening-resources" target="_blank" rel="noopener")
         
