@@ -30,24 +30,17 @@ This is very much a collaborative effort, and your experience and observations a
 
 ---
 
-::: {.callout-note icon=false}
+::: {.callout-importnat icon=false appearance="simple"}
 
-# **Stay Connected & Ask Questions**
-
-## **Project Contacts**
+## **Contacts**
 
 ### **Vermont**
-**Maryam Nouri-Aiin**  
-📧 maryam.nouri-aiin@uvm.edu  
-📞 802-318-2652  
+**Maryam Nouri-Aiin**  maryam.nouri-aiin@uvm.edu  802-318-2652  
 
-**UVM Master Gardener Helpline**  
-📞 802-656-5421  
-
+**UVM Master Gardener Helpline**  802-656-5421  
 
 ### **New York**
-**Tim McCay**  
-📧 tmccay@colgate.edu  
+**Tim McCay**  tmccay@colgate.edu  
 
 
 ---
