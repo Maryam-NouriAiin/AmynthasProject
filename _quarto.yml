@@ -23,8 +23,8 @@ website:
     contents:
       - text: Home
         href: index.qmd
-      - text: About
-        href: about.qmd
+      - text: Handouts
+        href: handout.qmd
 
   navbar:
     background: "#2e4053"
@@ -32,8 +32,10 @@ website:
     right:
       - text: "Home"
         href: index.qmd
-      - text: "About"
-        href: about.qmd
+      - text: "Handouts"
+        href: handouts.qmd
+      - text: "Questionnaire"
+        href: questionnaire.qmd
 
   page-footer:
     left: |
