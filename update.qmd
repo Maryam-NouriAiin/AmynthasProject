@@ -12,8 +12,18 @@ format:
 
 ## What we did in 2025
 
+<div style="float: right; width: 45%; margin-left: 1em; background-color:#f5f5f5; padding:1em; border-radius:1em; text-align:center;">
+
+![](/images/beds_2.jpeg){width="100%"}
+
+*Assembled raised beds prior to soil filling and experimental setup.*
+
+</div>
+
 Last year was really about getting everything set up and building a solid foundation for the project.
 We established a large raised-bed experiment at the UVM Horticulture Research & Education Center, with 40 beds placed along a forest edge so we could work in conditions where jumping worms are likely to thrive—but still keep things controlled. We also installed temperature and moisture sensors so we can track what’s happening in the soil over time.
+
+<div style="clear: both;"></div>
 
 
 ::: {.columns}
@@ -28,18 +38,17 @@ We established a large raised-bed experiment at the UVM Horticulture Research & 
 :::
 :::
 
-::: {.column width="50%"}
-::: {style="background-color:#f5f5f5; padding:1em; border-radius:1em; text-align:center;"}
-
-![](/images/nk_ol.jpeg){width="100%"}
-
-*Our team members Nolan Kurtz and Ollie Leibovich collecting jumping worms for introduction into experimental beds.*
-
-:::
 :::
 
-:::
 
+::: {#fig-beds layout-ncol=2 style="background-color:#f5f5f5; padding:1.5em; border-radius:1em;"}
+
+![](/images/nk_1.jpeg){width="100%"}
+![](/images/ol_1.jpeg){width="100%"}
+
+**Figure 1.** Assembled raised beds prior to soil filling and experimental setup (left), and Nolan Kurtz and Ami Lavievich collecting jumping worms for introduction into experimental beds (right).
+
+:::
 
 
 
@@ -68,9 +77,13 @@ Interestingly, even though several farms reported worms, we only detected cocoon
 
 ::: {.callout-note icon=false appearance="simple"}
 We presented our early research results from this project, and other ongoing projects on jumping worms in the following events: 
+
 -	UVM Horticultural Research & Education Center Field Day (August 14, 2025): Demonstrations of field trial design, monitoring approaches, and biological control concepts; ~35 participants.
+
 -	UVM Extension Master Gardener Conference (November 22, 2025): Presentation on jumping worm biology, identification, and management; ~73 participants. Educational materials were made available online.
+
 -	NOFA-VT (February 14, 2026): Presentation on research update, including jumping worms project; ~21 participants. Educational materials were made available online.
+
 :::
 
 ## What’s next 2026
