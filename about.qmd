@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Handouts"
 title-block-style: none
 format:
   html:
@@ -10,6 +10,10 @@ format:
       style: docked
 ---
 
+[Download Best Jumping Worm Management Practice Factsheets (PDF)](pdf/factsheet.pdf){target="_blank"}
+
+For more information, visit the [UVM Master Gardener Program page](https://www.uvm.edu/extension/mastergardener/gardening-resources" target="_blank" rel="noopener")
+        
 
 
 ::: {.panel-tabset}
