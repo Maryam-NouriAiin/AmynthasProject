@@ -14,16 +14,27 @@ format:
 
 <div style="float: right; width: 60%; margin-left: 1em; background-color:#f5f5f5; padding:1em; border-radius:1em; text-align:center;">
 
-![](/images/beds_2.jpeg){width="60%"}
+  <img src="/images/beds_2.jpeg" style="width:100%; height:auto; border-radius:0.5em;" />
 
-*Assembled raised beds prior to soil filling and experimental setup.*
+  <p><em>Assembled raised beds prior to soil filling and experimental setup.</em></p>
 
 </div>
 
-Last year was really about getting everything set up and building a solid foundation for the project.
-We established a large raised-bed experiment at the UVM Horticulture Research & Education Center, with 40 beds placed along a forest edge so we could work in conditions where jumping worms are likely to thrive—but still keep things controlled. We also installed temperature and moisture sensors so we can track what’s happening in the soil over time.
+Last year was really about getting everything set up and building a solid foundation for the project.  
+We established a large raised-bed experiment at the UVM Horticulture Research & Education Center...
 
 <div style="clear: both;"></div>
+
+
+
+::: {layout-ncol=2 style="max-width:1200px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em; text-align:center;"}
+
+![](/images/nk_1.jpeg){width="100%"}
+![](/images/ol_1.jpeg){width="100%"}
+
+Our team members Nolan Kurtz (right) and Ollie Leibovich (left) collecting jumping worms for introduction into experimental beds. They collected about ~5,500 jumping worms over 3 days.
+
+:::
 
 
 
@@ -32,9 +43,24 @@ We established a large raised-bed experiment at the UVM Horticulture Research & 
 ![](/images/nk_1.jpeg){width="100%"}
 ![](/images/ol_1.jpeg){width="100%"}
 
-**Our team members Nolan Kurtz (right) and Ollie Leibovich (left) collecting jumping worms for introduction into experimental beds. They collected about ~ 5,500 jumping worms over 3 days.
+Our team members Nolan Kurtz (right) and Ollie Leibovich (left) collecting jumping worms for introduction into experimental beds. They collected about ~ 5,500 jumping worms over 3 days.
 
 :::
+
+
+
+::: {layout-ncol=2 style="max-width:1200px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em;"}
+
+![](/images/nk_1.jpeg){width="100%"}
+![](/images/ol_1.jpeg){width="100%"}
+
+:::
+
+<div style="max-width:1200px; margin:auto; text-align:center; font-size:0.95em;">
+
+*Our team members Nolan Kurtz (right) and Ollie Leibovich (left) collecting jumping worms for introduction into experimental beds. They collected approximately 5,500 worms over three days.*
+
+</div>
 
 
 
