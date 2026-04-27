@@ -1,0 +1,24 @@
+---
+title: "Handouts"
+title-block-style: none
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    sidebar:
+      style: docked
+---
+
+
+Best Jumping Worm Management Practice Factsheets [(PDF)](pdf/factsheet.pdf){target="_blank"}
+
+For more information, visit the [UVM Master Gardener Program page](https://www.uvm.edu/extension/mastergardener/gardening-resources" target="_blank" rel="noopener")
+        
+
+
+::: {.panel-tabset}
+## Point of Contact #1
+## Point of Contact #2
+:::
+
