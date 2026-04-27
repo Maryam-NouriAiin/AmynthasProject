@@ -1,5 +1,5 @@
 ---
-title: "My Site"
+title: "Assessing Jumping Worm Impact on Vegetable & Nursey Farms"
 
 ---
 ::: {#quarto-content}
@@ -25,12 +25,14 @@ title: "My Site"
 
 ---
 
-# Quarto Website Template
+# Project Summary
 
-Welcome! [This](https://maryam-nouriaiin.github.io/website_template/) is a customizable [Quarto](https://quarto.org/) website template designed for researchers, academics, and professionals looking to quickly build a clean and functional personal or lab website.
+This project aims to better understand what’s actually happening with jumping worms in our agricultural soils. There’s a lot of discussion around them right now, and honestly, not everyone agrees on their impacts—some see clear challenges for soil health, while others find the effects can vary depending on the system.
+Instead of making assumptions, we want to explore this together in real farm settings. We’ll be testing different approaches—like biological control, cover crops, and soil treatments—and seeing how they perform under real-world conditions.
 
-✨ Built by [Maryam Nouri-Aiin](https://www.maryam-nouriaiin.com/).
+A big part of this project is also sharing knowledge. We’ll work on identifying worms correctly, monitoring what’s happening in your soils, and finding practical strategies that make sense for your farm.
 
+This is very much a collaborative effort, and your experience and observations are just as important as the research itself. The goal is to build a clearer, balanced understanding and support soil health and farm sustainability moving forward.
 
 ---
 
