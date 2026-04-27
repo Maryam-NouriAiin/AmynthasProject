@@ -10,13 +10,6 @@ format:
       style: docked
 ---
 
-::: {layout="[[1,1]"}
-![](/images/nk_1.jpeg)
-
-![](/images/ol_1.jpeg)
-
-:::
-
 
 
 ## What we did in 2025
@@ -33,7 +26,36 @@ Last year was really about getting everything set up and building a solid founda
 We established a large raised-bed experiment at the UVM Horticulture Research & Education Center...
 
 <div style="clear: both;"></div>
+
+
+
 ----
+
+
+::: {layout="[[1,1]"}
+![](/images/nk_1.jpeg)
+
+![](/images/ol_1.jpeg)
+
+:::
+
+----
+
+
+::: {layout-nrow=1 style="max-width:1200px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em;"}
+
+![](/images/nk_1.jpeg)
+
+![](/images/ol_1.jpeg)
+
+*Our team members Nolan Kurtz (left) and Ollie Leibovich (right) collecting jumping worms for introduction into experimental beds. They collected approximately 5,500 worms over three days.*
+:::
+
+
+
+
+-----
+
 
 
 
