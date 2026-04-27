@@ -30,20 +30,20 @@ This is very much a collaborative effort, and your experience and observations a
 
 ---
 
-::: {.callout-important icon=false appearance="simple"}
-## **Contacts**
+::: {.callout-tip icon=false"}
+# **Contacts**
 
-### **Vermont**
-**Maryam Nouri-Aiin**  maryam.nouri-aiin@uvm.edu  802-318-2652  
+##### **Vermont**
+**Maryam Nouri-Aiin**  _maryam.nouri-aiin@uvm.edu | 802-318-2652_
 
-**UVM Master Gardener Helpline**  802-656-5421  
+**UVM Master Gardener Helpline**  _802-656-5421_
 
-### **New York**
-**Tim McCay**  tmccay@colgate.edu  
+##### **New York**
+**Tim McCay** _tmccay@colgate.edu_  
 
 ---
 
-### **Quick communication**
+##### **Quick communication**
 Join our WhatsApp group to share updates, ask quick questions, and send photos/videos:  
 [Join WhatsApp Group](https://chat.whatsapp.com/LIT7TFX6Ew43YIKpjAaJSW?mode=gi_t)
 
@@ -51,7 +51,7 @@ Join our WhatsApp group to share updates, ask quick questions, and send photos/v
 
 ---
 
-### **Have a question (no rush)?**
+##### **Have a question (no rush)?**
 You can submit it here anytime:  
 
 <div style="max-width: 900px; margin: auto;">
