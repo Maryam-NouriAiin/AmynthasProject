@@ -14,11 +14,11 @@ format:
 
 ## What we did in 2025
 
-<div style="float: right; width: 50%; margin-left: 1em; background-color:#f5f5f5; padding:1em; border-radius:1em; text-align:center;">
+<div style="float: right; width: 60%; margin-left: 1em; background-color:#f5f5f5; padding:1em; border-radius:1em; text-align:center;">
 
   <img src="/images/beds_2.jpeg" style="width:100%; height:auto; border-radius:0.5em;" />
 
-  <p><em>Assembled raised beds prior to soil filling and experimental setup.</em></p>
+  <p><strong>Assembled raised beds prior to soil filling and experimental setup.</strong></p>
 
 </div>
 
@@ -34,15 +34,15 @@ We established a large raised-bed experiment at the UVM Horticulture Research & 
 </br>
 </br>
 
-::: {layout-nrow=1 style="max-width:1100px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em;"} 
+::: {layout-nrow=1 style="max-width:1100px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-top-left-radius: 1em; border-top-left-radius: 1em;"} 
 
 
-![](/images/nk_1.jpeg){width="48%" height="300px" style="border-radius: 1em;"}
-![](/images/ol_1.jpeg){width="48%" height="300px" style="border-radius: 1em;"}
+![](/images/nk_1.jpeg){width="49%" height="300px" style="border-radius: 1em;"}
+![](/images/ol_1.jpeg){width="49%" height="300px" style="border-radius: 1em;"}
 
 :::
 
-<div style="text-align:center; margin-top:0em; font-size:0.95em; background-color:#f5f5f5; padding-top:0em; padding:1.5em;">
+<div style="text-align:center; margin-top:0em; font-size:0.95em; background-color:#f5f5f5; padding-top:0em; padding:1.5em; border-bottom-right-radius: 1em; border-bottom-left-radius: 1em;">
 
 **Our team members Nolan Kurtz (left) and Ollie Leibovich (right) collecting jumping worms for introduction into experimental beds. They collected approximately 5,500 worms over three days.** 
 
