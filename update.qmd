@@ -33,56 +33,16 @@ We established a large raised-bed experiment at the UVM Horticulture Research & 
 ::: {layout-nrow=1 style="max-width:1200px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em;"} 
 
 
-![](/images/nk_1.jpeg){width="40%" height="300px" style="border-radius: 1em;"}
-![](/images/ol_1.jpeg){width="40%" height="300px" style="border-radius: 1em;"}
+![](/images/nk_1.jpeg){width="45%" height="300px" style="border-radius: 1em;"}
+![](/images/ol_1.jpeg){width="45%" height="300px" style="border-radius: 1em;"}
 
 :::
 
-<div style="text-align:center; margin-top:1em; font-size:0.95em;">
+<div style="text-align:center; margin-top:1em; font-size:0.95em; background-color:#f5f5f5;">
 
-*Our team members Nolan Kurtz (left) and Ollie Leibovich (right) collecting jumping worms for introduction into experimental beds. They collected approximately 5,500 worms over three days.* 
+**Our team members Nolan Kurtz (left) and Ollie Leibovich (right) collecting jumping worms for introduction into experimental beds. They collected approximately 5,500 worms over three days.** 
 
 </div>
-
-
-
-
-::: {style="max-width:1200px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em;"}
-
-::: {layout-nrow=1}
-
-![](/images/nk_1.jpeg){width="80%" height="300px" style="border-radius: 1em;"}
-![](/images/ol_1.jpeg){width="80%" height="300px" style="border-radius: 1em;"}
-
-:::
-
-<div style="text-align:center; margin-top:1em; font-size:0.95em;">
-
-*Our team members Nolan Kurtz (left) and Ollie Leibovich (right) collecting jumping worms for introduction into experimental beds. They collected approximately 5,500 worms over three days.*
-
-</div>
-
-:::
-
-
-
-
-
-
-
---- 
-
-::: {layout-nrow=1 style="max-width:1000px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em; text-align:center;"}
-
-![](/images/nk_1.jpeg){width="100%" style="border-radius: 1em;"}
-![](/images/ol_1.jpeg){width="100%" style="border-radius: 1em;"}
-
-**Raised-bed experimental setup at the UVM Horticultural Research & Education Center used for evaluating management strategies.**
-
-:::
-
-
-
 
 
 
