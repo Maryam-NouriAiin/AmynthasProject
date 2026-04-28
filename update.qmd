@@ -33,8 +33,8 @@ We established a large raised-bed experiment at the UVM Horticulture Research & 
 ::: {layout-nrow=1 style="max-width:1200px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em;"} 
 
 
-![](/images/nk_1.jpeg){width="60%" height="300px" style="border-radius: 1em;"}
-![](/images/ol_1.jpeg){width="60%" height="300px" style="border-radius: 1em;"}
+![](/images/nk_1.jpeg){width="40%" height="300px" style="border-radius: 1em;"}
+![](/images/ol_1.jpeg){width="40%" height="300px" style="border-radius: 1em;"}
 
 :::
 
@@ -102,6 +102,19 @@ We tested a range of treatments, including different crops, mustard cover crops,
 Since this was our first year, we didn’t expect to see strong treatment effects yet—and we didn’t. That’s actually normal. It takes time for worm populations and soil processes to stabilize, so this year mostly gives us a baseline to compare against in the next phases.
 
 We also ran some small baited trap trials. Worms did show up more inside traps than in the surrounding soil, which is encouraging for developing better monitoring tools, but it’s still early and more refinement is needed.
+
+
+
+::: {style="max-width:800px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-radius:1em; text-align:center;"}
+
+![](/images/jw_traps_1.jpg){width="100%" style="border-radius: 1em;"}
+
+**Baited trap assay results showing how jumping worm attraction to substrates varied. Traps were set three times, and results differed each time, so more sampling is planned to better understand these patterns.**
+
+:::
+
+
+
 On the outreach side, we connected with 26 different operations across Vermont and New York—ranging from vegetable farms to nurseries and compost operations. About half reported having jumping worms, and half didn’t, which gives us a really nice range of conditions to work with.
 
 Interestingly, even though several farms reported worms, we only detected cocoons in a couple of those sites. That tells us two things: identification is still tricky, and worm populations can be very patchy. So moving forward, we’re planning more detailed and repeated sampling to get a clearer picture.
