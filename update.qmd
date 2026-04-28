@@ -34,7 +34,7 @@ We established a large raised-bed experiment at the UVM Horticulture Research & 
 </br>
 </br>
 
-::: {layout-nrow=1 style="max-width:1100px; margin:auto; background-color:#f5f5f5; padding:1.5em; border-top-left-radius: 1em; border-top-left-radius: 1em;"} 
+::: {layout-nrow=1 style="max-width:1100px; margin:auto; background-color:#f5f5f5; padding-right:1.5em; padding-left:1.5em; padding-top:1.5em; padding-bottom:1em; border-top-right-radius: 1em; border-top-left-radius: 1em;"} 
 
 
 ![](/images/nk_1.jpeg){width="49%" height="300px" style="border-radius: 1em;"}
