@@ -10,26 +10,31 @@ format:
       style: docked
 ---
 
-## Join the Project
 
-We ask all participants to complete a short questionnaire to help us better understand your site and goals.
+
+**We ask all participants to complete a short questionnaire to help us better understand your site and goals.**
+
+
+
 
 ---
 
 ### 1. Project Entry Questionnaire
 
-**Vermont participants:** Please complete this form.
 
-**New York participants:** Many of you have already completed a paper version, and we have most of your information on file. However, if you don’t mind filling out this online version as well, we would greatly appreciate it.
+- **Vermont participants:** Please complete this form.
 
-**Open the form in a full window:** [Click here](https://forms.cloud.microsoft/r/pdWqJ2yNQU) or fill it out below:
+- **New York participants:** Many of you have already completed a paper version, and we have most of your information on file. However, if you don’t mind filling out this online version as well, we would greatly appreciate it.
 
-<iframe width="640px" height="480px"
+
+
+**Open the form in a full window:** [click here](https://forms.cloud.microsoft/r/pdWqJ2yNQU) or fill it out below:
+
+
+<iframe width="740px" height="520px"
 src="https://forms.cloud.microsoft/r/pdWqJ2yNQU?embed=true"
 frameborder="0"
 style="border: none; max-width:100%; max-height:100vh"
 allowfullscreen>
 </iframe>
 
-
-<iframe width="640px" height="480px" src="https://forms.cloud.microsoft/r/pdWqJ2yNQU?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
