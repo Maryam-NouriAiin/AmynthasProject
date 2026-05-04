@@ -30,7 +30,7 @@ This is very much a collaborative effort, and your experience and observations a
 
 ---
 
-::: {.callout-note icon=false"}
+::: {.callout-note icon=false title=""}
 # Contacts
 
 ##### **Vermont**
@@ -39,7 +39,7 @@ This is very much a collaborative effort, and your experience and observations a
 ##### **New York**
 > **Tim McCay:** _tmccay@colgate.edu_  
 
->>> **UVM Master Gardener Helpline is another great resource for general inquiries:**  _802-656-5421_
+> UVM Master Gardener Helpline is another great resource for general inquiries: _802-656-5421_
 ---
 
 ##### **Quick communication**
