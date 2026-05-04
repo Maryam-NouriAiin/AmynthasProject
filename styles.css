@@ -20,7 +20,7 @@ body {
 /* Footer styling */
 #quarto-footer {
   margin-top: auto;
-  background-color: #3C4D63;   /* footer background */
+  background-color: #3C4D63 !important;   /* footer background */
   color: #ffffff;              /* text color */
   padding: 1rem 0;
   text-align: center;
