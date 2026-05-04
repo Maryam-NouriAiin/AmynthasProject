@@ -1,52 +1,89 @@
-/* Make the whole page stretch vertically */
+/* =========================
+   Page Layout (Sticky Footer)
+   ========================= */
+
 #quarto-page {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
 
-/* Main content area grows to push footer down */
 #quarto-content {
   flex: 1;
 }
 
-/* Sticky footer at bottom */
-footer {
+body {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Footer styling */
+#quarto-footer {
   margin-top: auto;
+  background-color: #3C4D63;   /* footer background */
+  color: #ffffff;              /* text color */
+  padding: 1rem 0;
+  text-align: center;
 }
 
-/* Default link color */
-a {
-  color: #3C3E59 !important;   /* pick your color */
+/* Optional: footer links */
+#quarto-footer a {
+  color: #F2E6D3;
+  text-decoration: none;
 }
 
-/* Visited links */
-a:visited {
-  color: #426D7D !important;
-}
-
-/* Hover effect */
-a:hover {
-  color: #566096 !important;
+#quarto-footer a:hover {
   text-decoration: underline;
 }
 
-/* Active (clicked) */
-a:active {
-  color: #293462 !important;
+
+/* =========================
+   Link Styling
+   ========================= */
+
+#quarto-content a {
+  color: #3C3E59;
+}
+
+#quarto-content a:visited {
+  color: #426D7D;
+}
+
+#quarto-content a:hover {
+  color: #566096;
+  text-decoration: underline;
+}
+
+#quarto-content a:active {
+  color: #293462;
 }
 
 
-/* Minimal callout style */
+/* =========================
+   Minimal Callout Style
+   ========================= */
+
 .minimal-callout {
-  border-left: 6px solid #3C4D63;   /* pick your color */
-  background-color: #F2E6D3;        /* soft background */
+  border-left: 6px solid #3C4D63;
+  background-color: #F2E6D3;
   padding: 1rem 1.2rem;
   margin: 1.5rem 0;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
-/* Remove the default callout header/title bar */
-.minimal-callout .callout-header {
+/* Remove default callout header/title */
+.minimal-callout .callout-header,
+.minimal-callout .callout-title-container {
   display: none;
 }
+
+.minimal-callout {
+  transition: all 0.2s ease;
+}
+
+.minimal-callout:hover {
+  background-color: #eadcc6;
+}
+
+
+
