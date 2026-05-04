@@ -11,7 +11,7 @@ title: "Assessing Jumping Worm Impact on Vegetable & Nursey Farms"
 
 ::: {.column style="width:100%;height:32.5%;border-radius:1em;margin:1%;padding:1.5%;background-color:#f5f5f5"}
 <figure>
-    <img src="/images/jw_1.jpeg" alt=" " role="presentation" style="object-fit: width:100%;height:auto;border-radius: 1em;font-size:1em;" class="img-responsive atto_image_button_text-bottom">
+    <img src="/images/jw_1.jpeg" alt=" " role="presentation" style="object-fit: cover;width:40em;height:20em;border-radius: 1em;font-size:1em;" class="img-responsive atto_image_button_text-bottom">
 </figure>
 :::
 
@@ -31,7 +31,7 @@ This is very much a collaborative effort, and your experience and observations a
 ---
 
 ::: {.callout-note icon=false title=""}
-# Contacts <br>
+# Contacts
 
 ##### **Vermont**
 > **Maryam Nouri-Aiin:**  _maryam.nouri-aiin@uvm.edu | 802-318-2652_
@@ -39,7 +39,7 @@ This is very much a collaborative effort, and your experience and observations a
 ##### **New York**
 > **Tim McCay:** _tmccay@colgate.edu_  
 
-###### UVM Master Gardener Helpline is another great resource for general inquiries: _802-656-5421_
+> UVM Master Gardener Helpline is another great resource for general inquiries: _802-656-5421_
 ---
 
 ##### **Quick communication**
