@@ -35,3 +35,18 @@ a:hover {
 a:active {
   color: #293462 !important;
 }
+
+
+/* Minimal callout style */
+.minimal-callout {
+  border-left: 4px solid #4CAF50;   /* pick your color */
+  background-color: #f4f9f4;        /* soft background */
+  padding: 1rem 1.2rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+/* Remove the default callout header/title bar */
+.minimal-callout .callout-header {
+  display: none;
+}
