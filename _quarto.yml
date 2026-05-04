@@ -27,10 +27,6 @@ website:
 
   sidebar:
     contents:
-      - text: Project Summary
-        href: index.qmd
-      - text: Project Update
-        href: update.qmd
       - text: Identification Key
         href: id_key.qmd
       - text: Questionnaire
@@ -46,12 +42,7 @@ website:
         href: index.qmd
       - text: "Project Update"
         href: update.qmd
-      - text: "Identification Key"
-        href: id_key.qmd
-      - text: "Questionnaire"
-        href: questionnaire.qmd
-      - text: "Handouts"
-        href: handout.qmd
+
 
   page-footer:
     left: |
