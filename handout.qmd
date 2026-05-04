@@ -14,13 +14,13 @@ format:
 
 ::: {.panel-tabset}
 ## Best Jumping Worm Management Practice Factsheets
-::: {.callout-note icon=false"}
+::: {.callout icon=false"}
 [Download (PDF)](pdf/factsheet.pdf){target="_blank"}
 
 For more information, visit the [UVM Master Gardener Program page](https://www.uvm.edu/extension/mastergardener/gardening-resources" target="_blank" rel="noopener")
 :::
 ## Field Guide to Common NE Earthworm Identification
-::: {.callout-note icon=false"}
+::: {.callout icon=false"}
 [Download a printable feild guuide (PDF)](pdf/factsheet.pdf){target="_blank"}
 :::
 :::
