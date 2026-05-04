@@ -10,7 +10,7 @@ format:
       style: docked
 ---
 
-
+::: {.callout-note icon=false"}
 As part of this project, we’ve developed a dedicated earthworm identification resource to support your field observations.
 
 You can access:
@@ -21,3 +21,4 @@ You can access:
 Visit the identification page: [link](https://maryam-nouriaiin.com/earthworm_id/)
 
 If you have questions or would like help identifying a sample, feel free to reach out.
+:::
