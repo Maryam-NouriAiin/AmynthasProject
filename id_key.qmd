@@ -10,7 +10,7 @@ format:
       style: docked
 ---
 
-::: {.callout-note icon=false"}
+::: {.callout icon=false"}
 As part of this project, we’ve developed a dedicated earthworm identification resource to support your field observations.
 
 You can access:
