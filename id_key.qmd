@@ -9,18 +9,12 @@ format:
     sidebar:
       style: docked
 ---
-
-
-::: columns
-
-::: {.column style="width:100%;height:32.5%;border-radius:1em;margin:1%;padding:1.5%;background-color:#f5f5f5"}
 <figure>
-    <img src="/images/jw_id_2.jpeg" alt=" " role="presentation" style="object-fit: cover;width:60em;height:20em;border-radius: 1em;font-size:1em;" class="img-responsive atto_image_button_text-bottom">
+  <img 
+    src="/images/jw_id_2.jpeg" 
+    alt="Earthworm identification example"
+    style="width:100%; max-width:900px; height:auto; border-radius:1em; display:block; margin:auto;">
 </figure>
-:::
-
-:::
-
 
 
 ::: {.callout no-icon minimal-callout}
@@ -28,10 +22,11 @@ As part of this project, we’ve developed a dedicated earthworm identification 
 
 You can access:
 
-- An interactive identification key
-- A downloadable, printable guide for field use
+- An interactive identification key  
+- A downloadable, printable guide for field use  
 
-Visit the identification page: [link](https://maryam-nouriaiin.com/earthworm_id/)
+**Visit the identification page:**  
+https://maryam-nouriaiin.com/earthworm_id/
 
 If you have questions or would like help identifying a sample, feel free to reach out.
 :::
