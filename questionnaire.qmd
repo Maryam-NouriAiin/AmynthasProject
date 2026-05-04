@@ -12,4 +12,20 @@ format:
 
 
 
+## Participant Questionnaire
+
+Please complete this short questionnaire before participating in the project. It helps us better understand your site, practices, and goals so we can tailor our work effectively.
+
+**Vermont participants:** Please complete this form.
+
+**New York participants:** Many of you have already completed a paper version, and we have most of your information on file. However, if you don’t mind filling out this online version as well, we would greatly appreciate it.
+
+<iframe width="640px" height="480px"
+src="https://forms.cloud.microsoft/r/pdWqJ2yNQU?embed=true"
+frameborder="0"
+style="border: none; max-width:100%; max-height:100vh"
+allowfullscreen>
+</iframe>
+
+
 <iframe width="640px" height="480px" src="https://forms.cloud.microsoft/r/pdWqJ2yNQU?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
