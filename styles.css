@@ -72,8 +72,7 @@ body {
 }
 
 /* Remove default callout header/title */
-.minimal-callout .callout-header,
-.minimal-callout .callout-title-container {
+.minimal-callout .callout-header {
   display: none;
 }
 
