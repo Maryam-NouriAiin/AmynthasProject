@@ -10,15 +10,19 @@ format:
       style: docked
 ---
 
+## Join the Project
 
+We ask all participants to complete a short questionnaire to help us better understand your site and goals.
 
-## Participant Questionnaire
+---
 
-Please complete this short questionnaire before participating in the project. It helps us better understand your site, practices, and goals so we can tailor our work effectively.
+### 1. Project Entry Questionnaire
 
 **Vermont participants:** Please complete this form.
 
 **New York participants:** Many of you have already completed a paper version, and we have most of your information on file. However, if you don’t mind filling out this online version as well, we would greatly appreciate it.
+
+**Open the form in a full window:** [Click here](https://forms.cloud.microsoft/r/pdWqJ2yNQU) or fill it out below:
 
 <iframe width="640px" height="480px"
 src="https://forms.cloud.microsoft/r/pdWqJ2yNQU?embed=true"
