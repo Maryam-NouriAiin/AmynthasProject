@@ -17,21 +17,21 @@ footer {
 
 /* Default link color */
 a {
-  color: #3C3E59;   /* pick your color */
+  color: #3C3E59 !important;   /* pick your color */
 }
 
 /* Visited links */
 a:visited {
-  color: #426D7D;
+  color: #426D7D !important;
 }
 
 /* Hover effect */
 a:hover {
-  color: #566096;
+  color: #566096 !important;
   text-decoration: underline;
 }
 
 /* Active (clicked) */
 a:active {
-  color: #293462;
+  color: #293462 !important;
 }
