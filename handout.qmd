@@ -18,7 +18,11 @@ For more information, visit the [UVM Master Gardener Program page](https://www.u
 
 
 ::: {.panel-tabset}
-## Point of Contact #1
-## Point of Contact #2
+## Best Jumping Worm Management Practice Factsheets
+[Download (PDF)](pdf/factsheet.pdf){target="_blank"}
+For more information, visit the [UVM Master Gardener Program page](https://www.uvm.edu/extension/mastergardener/gardening-resources" target="_blank" rel="noopener")
+
+## Field Guide to Common NE Earthworm Identification
+[Download a printable feild guuide (PDF)](pdf/factsheet.pdf){target="_blank"}
 :::
 
