@@ -20,7 +20,7 @@ body {
 /* Footer styling */
 .nav-footer {
   margin-top: auto;
-  background-color: #3C4D63;
+  background-color: #E6CA9C;
   color: #ffffff;
   padding: 1rem 2rem;
   text-align: center;
@@ -28,7 +28,7 @@ body {
 
 /* footer links */
 .nav-footer a {
-  color: #F2E6D3;
+  color: #504D7A;
   text-decoration: none;
 }
 
