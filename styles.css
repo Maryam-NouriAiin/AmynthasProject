@@ -14,3 +14,24 @@
 footer {
   margin-top: auto;
 }
+
+/* Default link color */
+a {
+  color: #3C3E59;   /* pick your color */
+}
+
+/* Visited links */
+a:visited {
+  color: #426D7D;
+}
+
+/* Hover effect */
+a:hover {
+  color: #566096;
+  text-decoration: underline;
+}
+
+/* Active (clicked) */
+a:active {
+  color: #293462;
+}
