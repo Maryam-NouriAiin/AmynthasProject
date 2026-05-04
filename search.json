@@ -15,7 +15,7 @@
     "href": "id_key.html",
     "title": "Earthworms Identification Key",
     "section": "",
-    "text": "As part of this project, we’ve developed a dedicated earthworm identification resource to support your field observations.\nYou can access:\n\nAn interactive identification key\nA downloadable, printable guide for field use\n\nVisit the identification page: link\nIf you have questions or would like help identifying a sample, feel free to reach out.",
+    "text": "::: {.callout no-icon minimal-callout} As part of this project, we’ve developed a dedicated earthworm identification resource to support your field observations.\nYou can access:\n\nAn interactive identification key\nA downloadable, printable guide for field use\n\nVisit the identification page: link\nIf you have questions or would like help identifying a sample, feel free to reach out. :::",
     "crumbs": [
       "Project Summary",
       "Identification Key"
