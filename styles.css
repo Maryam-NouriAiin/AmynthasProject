@@ -36,6 +36,9 @@ body {
   text-decoration: underline;
 }
 
+.footer {
+  background: red !important;
+}
 
 /* =========================
    Link Styling
