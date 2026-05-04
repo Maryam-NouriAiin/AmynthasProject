@@ -11,7 +11,7 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
 
-     concurrency:
+    concurrency:
       group: "pages"
       cancel-in-progress: true
 
