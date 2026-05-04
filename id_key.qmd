@@ -9,12 +9,16 @@ format:
     sidebar:
       style: docked
 ---
+
+
 <figure>
   <img 
-    src="/images/jw_id_2.jpeg" 
+    src="images/jw_id_2.jpg" 
     alt="Earthworm identification example"
     style="width:100%; max-width:900px; height:auto; border-radius:1em; display:block; margin:auto;">
 </figure>
+
+
 
 
 ::: {.callout no-icon minimal-callout}
