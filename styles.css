@@ -18,26 +18,22 @@ body {
 }
 
 /* Footer styling */
-#quarto-footer {
+.nav-footer {
   margin-top: auto;
-  background-color: #3C4D63 !important;   /* footer background */
-  color: #ffffff;              /* text color */
-  padding: 1rem 0;
+  background-color: #3C4D63;
+  color: #ffffff;
+  padding: 1rem 2rem;
   text-align: center;
 }
 
-/* Optional: footer links */
-#quarto-footer a {
+/* footer links */
+.nav-footer a {
   color: #F2E6D3;
   text-decoration: none;
 }
 
-#quarto-footer a:hover {
+.nav-footer a:hover {
   text-decoration: underline;
-}
-
-.footer {
-  background: red !important;
 }
 
 /* =========================
